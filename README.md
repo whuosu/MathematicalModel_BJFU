@@ -1,5 +1,5 @@
-# Mathematical Model
-> My Mathematical Model Final Project From Beijing Forestry University
+# mathematical model
+> My mathematical model final project from Beijing Forestry University
 
 I finished a automatical Python script to acquire data of Covid-19 infected number in China mainland in tidy excel files and plot the graphy of tendency of the infeacted.
 
